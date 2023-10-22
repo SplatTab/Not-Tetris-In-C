@@ -13,7 +13,7 @@ You can also run strip to reduce the size of the executable.
 ### Usage
 To play the game on Windows, run `CTetris-Terminal.exe`
 
-On Linux, run `./CTetris-Terminal.exe` (although you can't compile on linux maybe try linking ncurses instead and change the include in main.c)
+On Linux, run `./CTetris-Terminal.exe` (although you can't compile on linux maybe try linking ncurses instead and change the include in main.c I think it should work with ncurses)
 
 The controls and other information are displayed on the main menu, and the gameplay is pretty self-explanatory.
 
